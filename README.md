@@ -7,8 +7,10 @@ PbootCMS是全新内核且永久开源免费的PHP企业网站开发建设管理
 - 系统支持后台在线升级，满足系统及时升级更新的需要；
 - 系统支持内容模型、多语言、自定义表单、筛选、多条件搜索、小程序、APP等功能；
 - 系统支持多种URL模式及模型、栏目、内容自定义地址名称，满足各类网站推广优化的需要。
-- Forked From https://github.com/hnaoyun/PbootCMS
 
-## 改进
+## 修改
 - 移除Kernel.php的加密
 - 改变部分变量名
+
+## 版权
+- Forked From https://github.com/hnaoyun/PbootCMS
